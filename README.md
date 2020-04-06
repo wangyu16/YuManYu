@@ -1,5 +1,1 @@
-# YuManYu
-YuManYu Memo
-1. 不要对自己不十分了解的事固执己见。
-1. 不要在洞悉事实真相之前做出判断。
-1. 不要和稀泥。
+This is the readme file
